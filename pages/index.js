@@ -90,6 +90,7 @@ const Home = (props) => {
               <span className="home-text23">Page Four Description</span>
             </Fragment>
           }
+          logoSrc="/letterhead%20mfb%20(1)-1500h.jpg"
         ></Navbar8>
         <Hero17
           action1={
