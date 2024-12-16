@@ -352,6 +352,7 @@ const Home = (props) => {
               <span className="home-text60">David Wilson</span>
             </Fragment>
           }
+          rootClassName="testimonial17root-class-name"
           author1Position={
             <Fragment>
               <span className="home-text61">Parent</span>
@@ -372,7 +373,6 @@ const Home = (props) => {
               <span className="home-text64">Parent</span>
             </Fragment>
           }
-          rootClassName="testimonial17root-class-name"
         ></Testimonial17>
         <ContactForm10
           email={
