@@ -365,11 +365,8 @@ const Testimonial17 = (props) => {
           .testimonial17-text37 {
             display: inline-block;
           }
-
-          @media (max-width: 1200px) {
-            .testimonial17root-class-name {
-              display: none;
-            }
+          .testimonial17root-class-name {
+            display: none;
           }
           @media (max-width: 991px) {
             .testimonial17-container10 {
