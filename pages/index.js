@@ -70,6 +70,7 @@ const Home = (props) => {
               <span className="home-text19">Secondary Action</span>
             </Fragment>
           }
+          logoSrc="/letterhead%20mfb%20(1)-1500h.jpg"
           page1Description={
             <Fragment>
               <span className="home-text20">Page One Description</span>
@@ -90,7 +91,6 @@ const Home = (props) => {
               <span className="home-text23">Page Four Description</span>
             </Fragment>
           }
-          logoSrc="/letterhead%20mfb%20(1)-1500h.jpg"
         ></Navbar8>
         <Hero17
           action1={
@@ -372,6 +372,7 @@ const Home = (props) => {
               <span className="home-text64">Parent</span>
             </Fragment>
           }
+          rootClassName="testimonial17root-class-name"
         ></Testimonial17>
         <ContactForm10
           email={
