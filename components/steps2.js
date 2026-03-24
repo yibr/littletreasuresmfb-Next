@@ -57,7 +57,7 @@ const Steps2 = (props) => {
                   {props.step2Description ?? (
                     <Fragment>
                       <span className="steps2-text31">
-                        Find us at Flat 6, 130 Bethune Road, N16 5DT for a
+                        Find us at 7 Darenth Rd, London N16 6EP for a
                         convenient and accessible childminding experience.
                       </span>
                     </Fragment>

@@ -260,7 +260,7 @@ const Home = (props) => {
           step2Description={
             <Fragment>
               <span className="home-text48">
-                Find us at Flat 6, 130 Bethune Road, N16 5DT for a convenient
+                Find us at 7 Darenth Rd, London N16 6EP for a convenient
                 and accessible childminding experience.
               </span>
             </Fragment>
@@ -391,7 +391,7 @@ const Home = (props) => {
           address={
             <Fragment>
               <span className="home-text69">
-                <span>Flat 6, 130 Bethune Road, N16 5DT</span>
+                <span>7 Darenth Rd, London N16 6EP</span>
                 <br></br>
                 <span>Ofsted Registered number: 2674103</span>
                 <br></br>
